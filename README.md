@@ -1,5 +1,5 @@
 # Postman-API-Testing
-Overview
+
 Welcome to the Postman Collection for interacting with the API. This collection provides a set of HTTP requests using the GET, POST, and DELETE methods. Use this collection to test and understand the API functionalities.
 
 Features
